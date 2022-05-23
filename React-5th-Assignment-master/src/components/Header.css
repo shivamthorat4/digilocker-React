@@ -1,0 +1,11 @@
+.HeaderParent{
+    background-color: rgb(0, 0, 0);    
+    text-align: center;
+}
+.logo {
+    height: 75px;
+    width: auto;
+  }
+  .h3{
+      font-family: Veranda;
+  }
